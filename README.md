@@ -1,16 +1,67 @@
-## Hi there 👋
+# Hi, I'm Ronal Asencio 👋
 
-<!--
-**ronal-13/ronal-13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Engineer specialized in Artificial Intelligence and Fullstack Development.  
+🚀 Passionate about building intelligent systems, scalable web applications, and AI-powered solutions.
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Software Engineering with AI – SENATI (2025)
+- 🤖 AI Developer working with NLP, RAG and Embeddings
+- ⚛️ Fullstack Developer (React, Python, Node.js)
+- 🧠 Interested in AI Architecture and Intelligent Systems
+- 📍 Lima, Peru
+
+**## 🛠 Tech Stack
+
+**Frontend**
+- React
+- JavaScript
+- HTML
+- CSS
+- Bootstrap
+- Alpine.js
+
+**Backend**
+- Python
+- Node.js
+- PHP
+
+**Databases**
+- PostgreSQL
+- SQLite
+
+**AI & Data**
+- LangGraph
+- Vertex AI
+- NLP
+- Embeddings
+- RAG Systems
+
+**Tools**
+- WordPress
+- Git
+- REST APIs**
+
+## 💼 Current Work
+
+**Software Developer — KREAR 3D**
+
+- AI Chatbots for 3D printer ecosystem
+- NLP + Embeddings architecture
+- React dashboards for analytics
+- WordPress & PHP e-commerce optimization
+- API integrations and automation systems
+
+## 🌐 Portfolio
+
+- Portfolio: https://asenciodev.vercel.app
+- GitHub: https://github.com/ronal-13
+
+## 📫 Contact
+
+📧 ronalasencio13@gmail.com  
+📱 +51 964849433
+
+---
+
+⭐ *Building intelligent software that solves real problems.*
