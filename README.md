@@ -11,36 +11,45 @@
 - 🧠 Interested in AI Architecture and Intelligent Systems
 - 📍 Lima, Peru
 
-**## 🛠 Tech Stack
+## 🧠 Tech Skills
 
-**Frontend**
-- React
-- JavaScript
-- HTML
-- CSS
-- Bootstrap
-- Alpine.js
+### Frontend
+React ▰▰▰▰▰▰▰▰▰ 90%  
+JavaScript (ES6+) ▰▰▰▰▰▰▰▰▰▰ 95%  
+TypeScript ▰▰▰▰▰ 50%  
+HTML5 ▰▰▰▰▰▰▰▰▰ 90%  
+CSS3 ▰▰▰▰▰▰▰▰▰ 90%  
+Tailwind ▰▰▰▰▰▰▰▰ 80%  
+Bootstrap ▰▰▰▰▰▰▰▰▰ 85%
 
-**Backend**
-- Python
-- Node.js
-- PHP
+### Backend
+Python ▰▰▰▰▰▰▰▰ 80%  
+PHP ▰▰▰▰▰▰▰▰▰▰ 95%  
+Node.js ▰▰▰▰▰▰▰ 70%
 
-**Databases**
-- PostgreSQL
-- SQLite
+### Databases
+MySQL ▰▰▰▰▰▰▰▰▰ 90%  
+PostgreSQL ▰▰▰▰▰▰▰▰ 80%  
+SQLite ▰▰▰▰▰▰▰▰ 80%
 
-**AI & Data**
-- LangGraph
-- Vertex AI
-- NLP
-- Embeddings
-- RAG Systems
+### Artificial Intelligence
+Chatbots with AI ▰▰▰▰▰▰▰▰▰ 90%  
+NLP ▰▰▰▰▰▰▰▰ 80%  
+Embeddings / RAG ▰▰▰▰▰▰▰▰▰ 85%  
+LangGraph ▰▰▰▰▰▰▰▰ 80%  
+Vertex AI ▰▰▰▰▰▰▰ 70%  
+Reasoning Learning ▰▰▰▰▰▰▰ 70%
 
-**Tools**
-- WordPress
-- Git
-- REST APIs**
+### Tools
+Git / GitHub ▰▰▰▰▰▰▰▰▰ 85%  
+WordPress ▰▰▰▰▰▰▰▰ 80%  
+Figma ▰▰▰▰▰▰▰ 70%  
+Photoshop ▰▰▰▰▰ 55%  
+Canva ▰▰▰▰▰▰▰ 70%
+
+### APIs & Data
+JSON / REST APIs ▰▰▰▰▰▰▰▰▰▰ 100%
+
 
 ## 💼 Current Work
 
