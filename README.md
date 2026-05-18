@@ -54,7 +54,7 @@ I focus on creating:
 
 ---
 
-# 🚀 Developer Stats
+# Developer Stats
 
 <div align="center">
 
@@ -66,7 +66,7 @@ I focus on creating:
 
 ---
 
-# 🧠 AI & Machine Learning
+# AI & Machine Learning
 
 ```python
 class RonalAsencio:
@@ -99,7 +99,7 @@ class RonalAsencio:
 
 # 🛠 Tech Stack
 
-## 🎨 Frontend Development
+## Frontend Development
 
 <p align="left">
 
@@ -115,7 +115,7 @@ class RonalAsencio:
 
 ---
 
-## ⚙️ Backend Development
+## Backend Development
 
 <p align="left">
 
@@ -130,7 +130,7 @@ class RonalAsencio:
 
 ---
 
-## 🤖 Artificial Intelligence
+## Artificial Intelligence
 
 <p align="left">
 
@@ -146,7 +146,7 @@ class RonalAsencio:
 
 ---
 
-## 🧰 Tools & Platforms
+## Tools & Platforms
 
 <p align="left">
 
@@ -161,7 +161,7 @@ class RonalAsencio:
 </p>
 ---
 
-# 📬 Connect With Me
+# Connect With Me
 
 <div align="center">
 
@@ -181,7 +181,7 @@ class RonalAsencio:
 
 ---
 
-# 🌎 Contact Information
+# Contact Information
 
 📧 Email: **ronalasencio13@gmail.com**
 
